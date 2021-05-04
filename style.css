@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+   background: coral;
+}
+
+ 
+.announcement{
+    background-color: chartreuse;
+}
+
+
+.container{
+
+    width: 100%;
+}
